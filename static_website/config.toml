@@ -1,0 +1,5 @@
+baseURL = "https://<mgrodrigueza>.github.io/<static_website>/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+publishDir = "docs"
+theme = "ananke"

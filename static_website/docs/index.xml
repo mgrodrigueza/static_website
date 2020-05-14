@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://&lt;mgrodrigueza&gt;.github.io/%3Cstatic_website%3E/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 23:00:42 -0500</lastBuildDate>
+    
+	<atom:link href="https://<mgrodrigueza>.github.io/%3Cstatic_website%3E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post - HUGO</title>
+      <link>https://&lt;mgrodrigueza&gt;.github.io/%3Cstatic_website%3E/posts/my-first-post/</link>
+      <pubDate>Wed, 13 May 2020 23:00:42 -0500</pubDate>
+      
+      <guid>https://&lt;mgrodrigueza&gt;.github.io/%3Cstatic_website%3E/posts/my-first-post/</guid>
+      <description>�Y c�mo ser� la web 4.0? A�n no se ha establecido un est�ndar para el Internet 4.0, ni mucho menos una denominaci�n, pero s� existen pistas acerca de por d�nde evolucionar�.
+Es posible que podamos llamar a la Internet 4.0 la �web activa�. En la actual web 3.0, el uso de buscadores sigue siendo imprescindible, y estos nos sirven informaci�n �en su mayor contenido p�ginas web- que utilizamos en funci�n de nuestras necesidades.</description>
+    </item>
+    
+  </channel>
+</rss>
